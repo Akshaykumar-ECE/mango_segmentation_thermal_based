@@ -1,0 +1,1 @@
+# mango_segmentation_thermal_based
