@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['alphanso']
+
+roboflow:
+  workspace: kruthika-dzjg7
+  project: akshay_separate
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/kruthika-dzjg7/akshay_separate/dataset/1
